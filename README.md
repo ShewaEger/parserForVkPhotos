@@ -1,3 +1,3 @@
 # parserForVkPhotos
 
-Required: minimist, vk-node-sdk
+Required: minimist, vk-io
